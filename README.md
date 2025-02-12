@@ -1,4 +1,4 @@
-# 📌 Projeto: Machine Learn II - Aprendizado Não-Supervisionado com PCA e Clustering
+# 📌 Projeto: Machine Machine Learning II - Aprendizado Não-Supervisionado com PCA e Clustering
 
 Este projeto foi desenvolvido como parte da disciplina de **Aprendizado Não-Supervisionado** do curso de **Pós-Graduação em Análise de Dados e Inteligência Artificial da UFMA**. O objetivo é aplicar técnicas de **redução de dimensionalidade** e **agrupamento de dados** para analisar um conjunto de dados de câncer de mama.
 
